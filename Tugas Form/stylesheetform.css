@@ -1,0 +1,36 @@
+
+div {
+margin-left:425px;
+}
+
+
+#outer {
+background-color : white;
+opacity:0.9;
+position: absolute;
+
+}
+
+#inner {
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 20px;
+
+}
+
+
+div h1 {
+font-size: 40px;
+color:white;
+position:absolute;
+margin-top :60px;
+margin-left:320px
+}
+
+div h5{
+font-size:16px;
+color:white;
+margin-top:120px;
+margin-left:500px;
+position:absolute;
+}

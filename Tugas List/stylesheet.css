@@ -1,0 +1,115 @@
+#titik2{
+padding-right:50px; 
+padding-left:50px;
+
+}
+
+background {
+position:fix;
+}
+
+table {
+position : absolute;
+font-family:Arial;
+font-size: 17px;
+position : absolute;
+margin-left:20px;
+margin-right:20px;
+margin-top:20px;
+
+}
+
+#frame {
+
+width : 220px;
+height : 800px;
+background-color:#17c5da;
+float :left;
+margin-left:230px;
+margin-top : 40px;
+position:absolute;
+border-radius : 20px;
+position : absolute;
+
+}
+
+#umlink {
+position:absolute;
+margin : 250px 25px;
+width:155px;
+}
+
+#pp {
+position : absolute;
+margin-left:20px;
+margin-top: 20px;
+
+}
+
+#header {
+position:absolute;
+float:top;
+width:850px;
+height :200px;
+background-color:#131f8e;
+margin-left:250px;
+margin-top : 30px;
+position : relative;
+}
+
+
+
+#logo1{
+position:absolute;
+margin-top:40px;
+margin-left:20px;
+}
+
+div h1 {
+font-size: 40px;
+color:white;
+position:absolute;
+margin-top :60px;
+margin-left:320px
+}
+
+div h5{
+font-size:16px;
+color:white;
+margin-top:120px;
+margin-left:500px;
+position:absolute;
+}
+
+
+#bio {
+position : absolute;
+float:right;
+width:600px;
+height :800px;
+background-color:#ffffff;
+opacity:0.6;
+margin-left:500px;
+margin-top : 40px;
+border-radius:15px;
+}
+
+#diskripsi
+{
+	margin-top:400px;
+	margin-left:30px;
+	margin-right:30px;
+	position : absolute;
+	
+}
+
+#aheader {
+text-decoration:none;
+color:white;
+}
+
+
+a{
+font-family:arial;
+}
+
